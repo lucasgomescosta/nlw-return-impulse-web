@@ -69,7 +69,7 @@ export function WidgetForm() {
       Feito com ♥ por{' '}
        <a 
        className="underline underline-offset-2" 
-       href="https://github.com/pncsoares" 
+       href="https://github.com/lucasgomescosta" 
        target="_blank"
        rel="noopener noreferrer" >
          Lucas Gomes
