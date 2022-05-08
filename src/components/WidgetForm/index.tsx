@@ -66,7 +66,14 @@ export function WidgetForm() {
       }
 
       <footer>
-        Feito pela <a className="underline underline-offset-2" href="https://rocketseat.com.br">Rocketseat</a>
+      Feito com ♥ por{' '}
+       <a 
+       className="underline underline-offset-2" 
+       href="https://github.com/pncsoares" 
+       target="_blank"
+       rel="noopener noreferrer" >
+         Lucas Gomes
+        </a>
       </footer>
     </div>
   )
